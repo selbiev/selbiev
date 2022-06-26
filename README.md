@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selbiev
 - 👀 I’m interested in gathering experience in Software development of all kinds
-- 🌱 I’m currently studying Computer Science at ETH Zurich
+- 🌱 I’m currently working as a Java Software Developer
 - 📫 How to reach me: said.elbiev@gmail.com
 
 <!---
